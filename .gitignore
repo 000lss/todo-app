@@ -1,0 +1,27 @@
+# Node modules (만약 Node.js를 사용하는 경우)
+node_modules/
+
+# 환경설정 파일
+.env
+
+# MacOS 관련 파일
+.DS_Store
+
+# 로그 파일
+npm-debug.log
+yarn-debug.log
+yarn-error.log
+
+# VSCode 설정 파일
+.vscode/
+
+# IDE 관련 파일 (예: IntelliJ, WebStorm, PyCharm)
+.idea/
+
+# 빌드 파일 및 디렉터리
+dist/
+build/
+
+# 임시 파일
+*.tmp
+*.log
